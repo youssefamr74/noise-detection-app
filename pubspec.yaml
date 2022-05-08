@@ -1,0 +1,37 @@
+name: noise_meter_flutter
+description: Sound meter
+
+publish_to: "none"
+
+version: 1.0.1+2
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # cupertino_icons: ^1.0.0
+  geolocator: ^6.2.1
+  noise_meter: ^2.0.0
+  syncfusion_flutter_charts: ^19.1.66+1
+  geocoder: ^0.2.1
+  record_mp3: ^2.1.0
+  firebase_storage: ^7.0.0
+  path_provider: ^1.6.28
+  firebase_core :  ^0.7.0
+  percent_indicator: ^3.0.1
+  firebase_database : ^6.0.0
+  cloud_firestore: ^0.16.0+1
+  flutter_icons: ^1.1.0
+  google_fonts: ^1.1.2
+  device_info: ^2.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

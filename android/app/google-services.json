@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957752454225",
+    "project_id": "noise-pol-4fdda",
+    "storage_bucket": "noise-pol-4fdda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957752454225:android:41f2b65dcca5ece9845c70",
+        "android_client_info": {
+          "package_name": "com.guc.Noise_Detector1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957752454225-1l6335kd18lrv5gvodjs093a8flh2vo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4X5Xk33xN_eHik5N9By1ytt9nVRrwcsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957752454225-1l6335kd18lrv5gvodjs093a8flh2vo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
