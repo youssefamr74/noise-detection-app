@@ -1,1 +1,2 @@
 # noise-detection-app
+This application is implemented using Flutter to measure noise pollution, The user should press on button ”Start” to begin the recording, once the user clicks it, the application measures the noise level in dB and starts recording for 10 seconds. Unless the user clicks the stop button, the application will keep saving data in Firebase every 1 minute. If the dB value exceeded 80dB the record is saved in Firebase. The data collected consists of sound level in decibels, the date of the reading, and the phone’s location and its type.
